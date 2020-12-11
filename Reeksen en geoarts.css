@@ -1,0 +1,136 @@
+h1.titel {
+	color: white;
+	padding:10px;
+	text-align:center;
+	border: rgb(2, 135, 77) 10px solid;
+	font-size:35px;
+	background-color: rgb(2, 135, 77);
+}
+
+h2 {
+	color:rgb(2, 135, 77);
+	font-size:40px;
+	text-align:center;
+}
+
+div.hoofdinhoudskolom {
+	float:left;
+	line-height:1.9;
+	width:60%;
+	background-color:;
+}
+
+
+ul.hoofdinhoud {
+	font-size:30px;
+	
+}
+
+ul.hoofdinhoud a {
+	text-decoration:none;
+	color:black;
+}
+
+ul.hoofdinhoud a:hover {
+	text-decoration:underline;
+}
+
+ul.neveninhoud {
+	font-size:30px;
+}
+
+
+div.aantal {
+	line-height:2.8;
+	width:15%;
+	background-color:;
+	float:left;
+	
+}
+
+div.aantal p {
+	font-size:21px;
+	text-align:center;
+}
+
+div.locatie {
+	background-color:;
+	line-height:2.8;
+	width:10%;
+	float:left;
+	border-left: 1px solid black;
+	margin-left:5%;
+}
+
+div.locatie p {
+	font-size:21px;
+	text-align:right;
+}
+
+hr {
+	color:rgb(2, 135, 77);
+}
+
+div.links {
+	background-color:;
+	margin-left:40%;
+	width:10%;
+	float:left;
+}
+
+div.rechts {
+	background-color:;
+	margin-right:40%;
+	width:10%;
+	float:left;
+}
+
+a.naam {
+	text-decoration:none;
+	color:rgb(2, 135, 77);	
+}
+
+a.naam:hover {
+	text-decoration:underline;
+}
+
+img.icoon {
+	height:20px;
+	width:20px;
+}
+
+img.kaart {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+img.kaart:hover {
+	border: rgb(2, 135, 77) solid 2px;
+}
+
+div.driekolom {
+	float:left;
+	width:33%;
+}
+
+div.links3 {
+	float:left;
+	margin-left:30%;
+	width:20%;
+}
+
+div.rechts3 {
+	float:left;
+	margin-right:30%;
+	width:20%;
+}
+
+div.tweekolom {
+	float:left;
+	width:49.5%;
+}
+
+
+
+
