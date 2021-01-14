@@ -41,7 +41,7 @@ ul.neveninhoud {
 
 
 div.aantal {
-	line-height:2.8;
+	line-height:2.74;
 	width:15%;
 	background-color:;
 	float:left;
@@ -55,7 +55,7 @@ div.aantal p {
 
 div.locatie {
 	background-color:;
-	line-height:2.8;
+	line-height:2.74;
 	width:10%;
 	float:left;
 	border-left: 1px solid black;
